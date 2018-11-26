@@ -1,0 +1,984 @@
+{
+  "sitemaps": [
+    {
+      "sitemap": "https://eflash-sg.doverstreetmarket.com/",
+      "keywords": "none",
+      "end": null,
+      "name": "Eflash SG",
+      "currency": "SGD",
+      "siteType": 1,
+      "brands": "",
+      "task": null
+    },
+    {
+      "sitemap": "https://eflash-jp.doverstreetmarket.com/",
+      "keywords": "none",
+      "end": null,
+      "name": "Eflash JP",
+      "currency": "JPY",
+      "siteType": 1,
+      "brands": "",
+      "task": null
+    },
+    {
+      "sitemap": "https://eflash-us.doverstreetmarket.com/",
+      "keywords": "none",
+      "end": null,
+      "name": "Eflash US",
+      "currency": "USD",
+      "siteType": 1,
+      "brands": "",
+      "task": "DSMNY%20E-Flash"
+    },
+    {
+      "sitemap": "https://eflash.doverstreetmarket.com/",
+      "keywords": "none",
+      "end": null,
+      "name": "Eflash UK",
+      "currency": "GBP",
+      "siteType": 1,
+      "brands": "",
+      "task": "DSM%20E-Flash"
+    },
+    {
+      "sitemap": "https://kith.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Kith",
+      "currency": "USD",
+      "siteType": 2,
+      "brands": "kith",
+      "task": "Kith"
+    },
+    {
+      "sitemap": "https://shopnicekicks.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Shop Nice Kicks",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "shop nice,nice kick",
+      "task": "Nice%20Kicks"
+    },
+    {
+      "sitemap": "https://undefeated.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Undefeated",
+      "currency": "USD",
+      "siteType": 1,
+      "brands": "undefeated",
+      "task": "Undefeated"
+    },
+    {
+      "sitemap": "https://www.noirfonce.eu/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Noirfonce",
+      "currency": "EUR",
+      "siteType": null,
+      "brands": "noir",
+      "task": "Noirfonce"
+    },
+    {
+      "sitemap": "https://www.deadstock.ca/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Deadstock CA",
+      "currency": "CAD",
+      "siteType": 1,
+      "brands": "deadstock,dead stock",
+      "task": "Livestock"
+    },
+    {
+      "sitemap": "https://www.socialstatuspgh.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Social Status",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "social",
+      "task": "Social%20Status"
+    },
+    {
+      "sitemap": "https://packershoes.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Packer Shoes",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "packers",
+      "task": "Packers"
+    },
+    {
+      "sitemap": "https://us.bape.com/",
+      "keywords": "none",
+      "end": "xml",
+      "name": "Bape US",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "",
+      "task": null
+    },
+    {
+      "sitemap": "https://stashedsf.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Stashed SF",
+      "currency": "USD",
+      "siteType": 1,
+      "brands": "stashed",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.xhibition.co/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Xhibition",
+      "currency": "USD",
+      "siteType": 1,
+      "brands": "xhibition",
+      "task": "Xhibition"
+    },
+    {
+      "sitemap": "https://www.apbstore.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "All Points Bulletin",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "apb,all point",
+      "task": "Apb%20store"
+    },
+    {
+      "sitemap": "https://www.blendsus.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Blends",
+      "currency": "USD",
+      "siteType": 1,
+      "brands": "blends",
+      "task": "Blends"
+    },
+    {
+      "sitemap": "https://www.highsandlows.net.au/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Highs & Lows",
+      "currency": "AUD",
+      "siteType": null,
+      "brands": "hal,high and",
+      "task": "Highs%20and%20Lows"
+    },
+    {
+      "sitemap": "https://www.featuresneakerboutique.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Features Sneaker",
+      "currency": "USD",
+      "siteType": 1,
+      "brands": "features",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.trophyroomstore.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Trophy Room",
+      "currency": "USD",
+      "siteType": 1,
+      "brands": "trophy",
+      "task": "Trophy%20Room"
+    },
+    {
+      "sitemap": "https://www.oipolloi.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Oipolloi",
+      "currency": "GBP",
+      "siteType": null,
+      "brands": "oipolloi",
+      "task": "Oipolloi"
+    },
+    {
+      "sitemap": "https://offthehook.ca/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Off The Hook",
+      "currency": "CAD",
+      "siteType": null,
+      "brands": "off the",
+      "task": "Off%20The%20Hook"
+    },
+    {
+      "sitemap": "https://rsvpgallery.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "RSVP Gallery",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "rsvp",
+      "task": "RSVP%20Gallery"
+    },
+    {
+      "sitemap": "https://wishatl.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Wish ATL",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "wish",
+      "task": "Wish%20ATL"
+    },
+    {
+      "sitemap": "https://laceupnyc.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Lace Up",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "lace up",
+      "task": null
+    },
+    {
+      "sitemap": "https://shop.extrabutterny.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Extra Butter",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "eb,extra",
+      "task": "Extra%20Butter"
+    },
+    {
+      "sitemap": "https://www.unknwn.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Unknown",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "unknown,unknwn",
+      "task": "UNKNWN"
+    },
+    {
+      "sitemap": "https://shoegallerymiami.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Shoe Gallery Miami",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "gallery",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.dope-factory.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Dope Factory",
+      "currency": "EUR",
+      "siteType": null,
+      "brands": "dope factory",
+      "task": "Dope%20Factory"
+    },
+    {
+      "sitemap": "https://us.octobersveryown.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "OVO US",
+      "currency": "USD",
+      "siteType": 1,
+      "brands": "octover,ovo",
+      "task": "OVO"
+    },
+    {
+      "sitemap": "https://www.a-ma-maniere.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "A-Ma Maniere",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "ama,maniere",
+      "task": "Ma%20Maniere"
+    },
+    {
+      "sitemap": "https://www.onenessboutique.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Oneness",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "oneness",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.lapstoneandhammer.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Lapstone",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "lapstone",
+      "task": "Lapstone%20and%20Hammer"
+    },
+    {
+      "sitemap": "https://shop.bdgastore.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "xml",
+      "name": "Bodega",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "bdga,bodega",
+      "task": "Bodega"
+    },
+    {
+      "sitemap": "https://lessoneseven.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Less17",
+      "currency": "CAD",
+      "siteType": 1,
+      "brands": "less",
+      "task": null
+    },
+    {
+      "sitemap": "https://nrml.ca/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "NRML",
+      "currency": "CAD",
+      "siteType": null,
+      "brands": "nrml,normal",
+      "task": "NRML"
+    },
+    {
+      "sitemap": "https://renarts.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Renarts",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "renarts",
+      "task": "Renarts"
+    },
+    {
+      "sitemap": "https://properlbc.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Proper LBC",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "proper",
+      "task": "Proper"
+    },
+    {
+      "sitemap": "https://www.alumniofny.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Alumni NY",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "alumni",
+      "task": null
+    },
+    {
+      "sitemap": "https://rise45.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Rise 45",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "rise",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.rooneyshop.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Rooney Shop",
+      "currency": "CAD",
+      "siteType": null,
+      "brands": "rooney",
+      "task": null
+    },
+    {
+      "sitemap": "https://likelihood.us/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Likelihood",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "like",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.addictmiami.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Addict Miami",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "addict",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.minishopmadrid.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Minishop Madrid",
+      "currency": "EUR",
+      "siteType": null,
+      "brands": "mini",
+      "task": "Mini%20Shop%20Madrid"
+    },
+    {
+      "sitemap": "https://soleclassics.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Sole Classic",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "sole",
+      "task": null
+    },
+    {
+      "sitemap": "https://commonwealth-ftgg.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Common Wealth",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "common",
+      "task": null
+    },
+    {
+      "sitemap": "https://shop.bbcicecream.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "BBC Icecream US",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "bbc,ice",
+      "task": "BBC"
+    },
+    {
+      "sitemap": "https://burnrubbersneakers.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Burn Rubber",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "burn",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.kongonline.co.uk/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Kongonline",
+      "currency": "GBP",
+      "siteType": null,
+      "brands": "kong",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.worldofhombre.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "World of Hombre",
+      "currency": "EUR",
+      "siteType": 1,
+      "brands": "world",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.westnyc.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "West NYC",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "west",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.urbanindustry.co.uk/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Urban Industry",
+      "currency": "GBP",
+      "siteType": null,
+      "brands": "urban",
+      "task": null
+    },
+    {
+      "sitemap": "https://concrete.nl/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Concrete",
+      "currency": "EUR",
+      "siteType": null,
+      "brands": "concrete",
+      "task": null
+    },
+    {
+      "sitemap": "https://suede-store.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Suede Store",
+      "currency": "EUR",
+      "siteType": null,
+      "brands": "suede",
+      "task": "Suede%20Store"
+    },
+    {
+      "sitemap": "https://www.capsuletoronto.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Capsule Toronto",
+      "currency": "CAD",
+      "siteType": null,
+      "brands": "capsule",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.saintalfred.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Saint Alfred",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "saint",
+      "task": "Saint%20Alfred"
+    },
+    {
+      "sitemap": "https://shop.reigningchamp.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Reigning Champ",
+      "currency": "CAD",
+      "siteType": null,
+      "brands": "reign",
+      "task": "Reigning%20Champ"
+    },
+    {
+      "sitemap": "https://juicestore.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Juice",
+      "currency": "HKD",
+      "siteType": null,
+      "brands": "clot,juice",
+      "task": null
+    },
+    {
+      "sitemap": "https://centre214.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Centre214",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "centre",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.pampamlondon.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Pam Pam LDN",
+      "currency": "GBP",
+      "siteType": null,
+      "brands": "pam",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.bowsandarrowsberkeley.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Bows And Arrows",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "bow",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.solefly.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Solefly",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "sole",
+      "task": "SoleFly"
+    },
+    {
+      "sitemap": "https://rockcitykicks.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Rock City Kicks",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "rock",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.thedarksideinitiative.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "The Dark Initiative",
+      "currency": "USD",
+      "siteType": 1,
+      "brands": "dark",
+      "task": "Dark%20side"
+    },
+    {
+      "sitemap": "https://fearofgod.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Fear of God",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "",
+      "task": "Fear%20Of%20God"
+    },
+    {
+      "sitemap": "https://creme321.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Creme321",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "creme",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.abovethecloudsstore.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Above The Cloud",
+      "currency": "AUD",
+      "siteType": null,
+      "brands": "above",
+      "task": null
+    },
+    {
+      "sitemap": "https://stay-rooted.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Stay Rooted",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "stay",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.thegoodlifespace.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "The Goodlife Space",
+      "currency": "AED",
+      "siteType": 1,
+      "brands": "good",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.amongstfew.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Amongest Few",
+      "currency": "AED",
+      "siteType": null,
+      "brands": "amongst,amongest",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.leaders1354.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Leaders1254",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "leaders",
+      "task": null
+    },
+    {
+      "sitemap": "https://sesinko.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Sesinko",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "sesi",
+      "task": null
+    },
+    {
+      "sitemap": "https://nowhere.ie/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "No Where",
+      "currency": "EUR",
+      "siteType": null,
+      "brands": "nowhere,no where",
+      "task": null
+    },
+    {
+      "sitemap": "https://nohble.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Nohble",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "nohble",
+      "task": null
+    },
+    {
+      "sitemap": "https://store.unionlosangeles.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Union LA",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "union",
+      "task": null
+    },
+    {
+      "sitemap": "https://www.diamondsupplyco.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json",
+      "name": "Diamond Supply Co.",
+      "currency": "USD",
+      "siteType": null,
+      "brands": "diamond",
+      "task": null
+    },
+    {
+      "sitemap": "https://shop.havenshop.ca/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json2",
+      "name": "Haven",
+      "currency": "CAD",
+      "siteType": 4,
+      "brands": "haven",
+      "task": "Haven"
+    },
+    {
+      "sitemap": "https://thepremierstore.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json2",
+      "name": "Premier SB",
+      "currency": "USD",
+      "siteType": 4,
+      "brands": "premier",
+      "task": null
+    },
+    {
+      "sitemap": "https://alifenewyork.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json2",
+      "name": "Alife NY",
+      "currency": "USD",
+      "siteType": 4,
+      "brands": "alife",
+      "task": null
+    },
+    {
+      "sitemap": "https://justdon.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json2",
+      "name": "Just Don",
+      "currency": "USD",
+      "siteType": 4,
+      "brands": "",
+      "task": "Just%20Don"
+    },
+    {
+      "sitemap": "https://sneakerpolitics.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json2",
+      "name": "Sneaker Politics",
+      "currency": "USD",
+      "siteType": 4,
+      "brands": "politic",
+      "task": "Sneaker%20Politics"
+    },
+    {
+      "sitemap": "https://www.hanon-shop.com/",
+      "keywords": "stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json2",
+      "name": "Hanon",
+      "currency": "GBP",
+      "siteType": 4,
+      "brands": "hanon",
+      "task": "Hannon%20Shop"
+    },
+    {
+      "sitemap": "https://www.notre-shop.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json2",
+      "name": "Notre",
+      "currency": "USD",
+      "siteType": 4,
+      "brands": "notre",
+      "task": "Notre%20Shop"
+    },
+    {
+      "sitemap": "https://cncpts.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json2",
+      "name": "Concepts",
+      "currency": "USD",
+      "siteType": 4,
+      "brands": "concepts,cncpts",
+      "task": "Concepts"
+    },
+    {
+      "sitemap": "https://www.lustmexico.com/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json2",
+      "name": "Lust Mexico",
+      "currency": "MXN",
+      "siteType": 3,
+      "brands": "lust",
+      "task": null
+    },
+    {
+      "sitemap": "https://hannibalstore.it/",
+      "keywords": "earring,jkt,polo,windbreaker,stan smith,swingman,huf,mitchell,stance,new balance,reebok,ewing,saucony,g shock,k swiss,brooks,filling pieces,diamond supply,brief,sweat,skirt,pintrill,chino,coat,bodysuit,swim,gymsack, hood,skinny,neck,aviators,glasses,cardigan,keyring,hip pack,boxer,oversized,dress,hooded,sunglass,dress,belt,tee,jogger,trunk,bottle,tower,sleeve,blouse,poly,l/s ,zip up,vest,parka,bomber,half zip,crew,tt,garment,parka,mag.,magazine,beanie,glove,jogger,panel,tight,facial,oil,moisturizer,soap,toothbrush,shampoo,shave,conditioner,beard,deodorant,socks,watch,trouser,tank,legging,backpack,denim,flannel,sunglasses,shirt,tee,cap,hat,snapback,short,pullover,jersey,pant,crewneck,bag,jean,candle,wallet,jacket, bra,hiking,track",
+      "end": "json2",
+      "name": "Hannibal",
+      "currency": "EUR",
+      "siteType": 3,
+      "brands": "hanni",
+      "task": null
+    },
+    {
+      "sitemap": "https://unionjordan.com/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "Union Jordan",
+      "currency": "USD",
+      "siteType": 3,
+      "brands": "",
+      "task": null
+    },
+    {
+      "sitemap": "https://secure.unionjordan.com/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "Union Jordan",
+      "currency": "USD",
+      "siteType": 3,
+      "brands": "",
+      "task": null
+    },
+    {
+      "sitemap": "https://us.cdgcdgcdg.com/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "CDG",
+      "currency": "USD",
+      "siteType": 3,
+      "brands": "",
+      "task": null
+    },
+    {
+      "sitemap": "https://shop.justintimberlake.com/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "JTK",
+      "currency": "USD",
+      "siteType": 3,
+      "brands": "",
+      "task": "JT%20Shop"
+    },
+    {
+      "sitemap": "https://nike.travisscott.com/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "Travis Scott",
+      "currency": "USD",
+      "siteType": 3,
+      "brands": "",
+      "task": "Travis%20Scott"
+    },
+    {
+      "sitemap": "https://store.travisscott.com/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "Travis%20Scott",
+      "currency": "USD",
+      "siteType": 3,
+      "brands": "",
+      "task": "Travis%20Scott"
+    },
+    {
+      "sitemap": "https://shop.travisscott.com/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "Travis Scott",
+      "currency": "USD",
+      "siteType": 3,
+      "brands": "",
+      "task": "Travis%20Scott"
+    },
+    {
+      "sitemap": "https://www.funko-shop.com/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "Funko",
+      "currency": "USD",
+      "siteType": 3,
+      "brands": "",
+      "task": "Funko%20Shop"
+    },
+    {
+      "sitemap": "https://launch.toytokyo.com/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "ToyTokyo",
+      "currency": "USD",
+      "siteType": 3,
+      "brands": "",
+      "task": "Toy%20Tokyo"
+    },
+    {
+      "sitemap": "https://aiomacbot.myshopify.com/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "Task Bot",
+      "currency": "USD",
+      "siteType": 5,
+      "brands": "",
+      "task": null
+    },
+    {
+      "sitemap": "https://caspercop.io/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "Casper Cop",
+      "currency": "USD",
+      "siteType": 5,
+      "brands": "",
+      "task": null
+    },
+    {
+      "sitemap": "https://eveaio.io/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "Eve Aio",
+      "currency": "USD",
+      "siteType": 5,
+      "brands": "",
+      "task": null
+    },
+    {
+      "sitemap": "https://shop.destroyerbots.com/",
+      "keywords": "none",
+      "end": "json2",
+      "name": "Project Destroyer",
+      "currency": "USD",
+      "siteType": 5,
+      "brands": "",
+      "task": null
+    }
+  ]
+}

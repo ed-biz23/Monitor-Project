@@ -1,0 +1,3 @@
+ip:port
+user:pass@ip:port
+input each ip:port on new line 
